@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hedgeinthehog/movie-library-JS-project.git"
+    "url": "git+https://github.com/supert111/team-project-js.git"
   },
   "keywords": [],
-  "homepage": "https://github.com/hedgeinthehog/movie-library-JS-project#readme",
+  "homepage": "https:/supert111.github.io/team-project-js",
   "devDependencies": {
     "@babel/core": "^7.13.13",
     "@babel/plugin-proposal-class-properties": "^7.13.0",
